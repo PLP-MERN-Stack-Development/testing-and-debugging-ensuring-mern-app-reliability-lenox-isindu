@@ -1,4 +1,4 @@
-// jest.config.js - Root Jest configuration file
+
 
 module.exports = {
   // Base configuration for all tests
